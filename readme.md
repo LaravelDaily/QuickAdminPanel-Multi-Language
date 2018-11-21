@@ -2,7 +2,7 @@
 
 This is a quick project to demonstrate how our [QuickAdminPanel generator](https://quickadminpanel.com) works with multi-language package [Laravel Translatable](https://github.com/dimsav/laravel-translatable).
 
-![Laravel Admin Panel multi-language](http://webcoderpro.com/quickadminpanel-multilanguage-demo.png)
+![Laravel Admin Panel multi-language](https://laraveldaily.com/wp-content/uploads/2018/11/quickadminpanel-multilanguage-demo.png)
 
 Here's an article with step-by-step instructions how it was created:
 [How to Add Multi-Language Models to Laravel QuickAdminPanel](https://quickadminpanel.com/blog/how-to-add-multi-language-models-to-laravel-quickadminpanel/)
